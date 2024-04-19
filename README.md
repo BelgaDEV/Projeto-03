@@ -18,7 +18,7 @@ Projeto exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologi
 <br>
 
 <p align="center">
-  <img alt="Dados Protegidos" src="images/template.png" width="35%">
+  <img alt="Dados Protegidos" src="images/template.png" width="85%">
 </p>
 
 ## 🚀 Tecnologias
